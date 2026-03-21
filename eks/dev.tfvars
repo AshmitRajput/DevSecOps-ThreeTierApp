@@ -18,6 +18,7 @@ ngw-name              = "ngw"
 eks-sg                = "eks-sg"
 
 # EKS
+node_role_arn = "arn:aws:iam::587451756668:role/dev-ap-medium-eks-cluster-nodegroup-role-7862"
 is-eks-cluster-enabled     = true
 cluster-version            = "1.33"
 cluster-name               = "eks-cluster"
