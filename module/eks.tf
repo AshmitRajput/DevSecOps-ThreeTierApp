@@ -50,7 +50,7 @@ resource "aws_eks_node_group" "ondemand-node" {
   cluster_name    = aws_eks_cluster.eks[0].name
   node_group_name = "${var.cluster-name}-on-demand-nodes"
 
-  node_role_arn = aws_iam_role.eks-nodegroup-role[0].arn
+  node_role_arn = var.node_role_arn
 
   scaling_config {
     desired_size = var.desired_capacity_on_demand
@@ -84,7 +84,7 @@ resource "aws_eks_node_group" "spot-node" {
   cluster_name    = aws_eks_cluster.eks[0].name
   node_group_name = "${var.cluster-name}-spot-nodes"
 
-  node_role_arn = aws_iam_role.eks-nodegroup-role[0].arn
+  node_role_arn = var.node_role_arn
 
   scaling_config {
     desired_size = var.desired_capacity_spot
