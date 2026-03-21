@@ -48,7 +48,7 @@ resource "aws_eks_addon" "eks-addons" {
 # NodeGroups
 resource "aws_eks_node_group" "ondemand-node" {
   cluster_name    = aws_eks_cluster.eks[0].name
-  node_group_name = "${var.cluster-name}-on-demand-nodes"
+  node_group_name = "${var.cluster-name}-on-demand-nodes-v2"
 
   node_role_arn = var.node_role_arn
 
@@ -82,7 +82,7 @@ resource "aws_eks_node_group" "ondemand-node" {
 
 resource "aws_eks_node_group" "spot-node" {
   cluster_name    = aws_eks_cluster.eks[0].name
-  node_group_name = "${var.cluster-name}-spot-nodes"
+  node_group_name = "${var.cluster-name}-spot-nodes-v2"
 
   node_role_arn = var.node_role_arn
 
