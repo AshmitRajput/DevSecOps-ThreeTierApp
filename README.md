@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="https://github.com/AshmitRajput">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" />
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws" />
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Terraform-lightgrey?logo=terraform" />
   </a>
 </p>
+
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
