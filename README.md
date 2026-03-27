@@ -1,8 +1,18 @@
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins!
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/ashmit-rajput-10b817299/)
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/AshmitRajput)
-[![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashmit-rajput-10b817299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/AshmitRajput">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" />
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws" />
+  </a>
+  <a href="https://www.terraform.io">
+    <img src="https://img.shields.io/badge/Terraform-lightgrey?logo=terraform" />
+  </a>
+</p>
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
