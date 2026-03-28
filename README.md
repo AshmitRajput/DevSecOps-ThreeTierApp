@@ -104,7 +104,7 @@ Built a DevSecOps pipeline with CI/CD (Jenkins) integrating SonarQube (static co
 <details>
 <summary>View Screenshots</summary>
 
-<p align="center">
+<p align="left">
   <img src="./assets/jenkins/1.png" width="45%"/>
   <img src="./assets/jenkins/2.png" width="45%"/>
 </p>
