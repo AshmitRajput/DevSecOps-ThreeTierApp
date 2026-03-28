@@ -68,6 +68,7 @@ Built a DevSecOps pipeline with CI/CD (Jenkins) integrating SonarQube (static co
 <p align="center">
   <img src="./assets/argocd/1.png" width="45%"/>
   <img src="./assets/argocd/2.png" width="45%"/>
+  <img src="./assets/argocd/4.png" width="45%"/>
 </p>
 
 </details>
@@ -110,7 +111,6 @@ Built a DevSecOps pipeline with CI/CD (Jenkins) integrating SonarQube (static co
 
 <p align="center">
   <img src="./assets/jenkins/3.png" width="45%"/>
-  <img src="./assets/jenkins/4.png" width="45%"/>
 </p>
 
 </details>
