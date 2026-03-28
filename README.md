@@ -56,6 +56,22 @@ Built a DevSecOps pipeline with CI/CD (Jenkins) integrating SonarQube (static co
 - **ArgoCD Deployment Failures**  
   Applications failed to deploy due to incorrect IAM roles and cluster access issues. Resolved by aligning permissions and ensuring proper cluster connectivity.
 
+<img width="2879" height="1524" alt="Screenshot 2026-03-18 141407" src="https://github.com/user-attachments/assets/178cfebb-aa21-487e-9a6c-255377f1352c" />
+<img width="2506" height="1310" alt="Screenshot 2026-03-21 145813" src="https://github.com/user-attachments/assets/4e476e91-17d4-4291-9c6f-3edb826d4621" />
+<img width="2843" height="1606" alt="Screenshot 2026-03-21 133148" src="https://github.com/user-attachments/assets/cc814c16-d85f-4442-8d19-b85bd4c7585e" />
+<img width="2879" height="1555" alt="Screenshot 2026-03-21 133135" src="https://github.com/user-attachments/assets/7a0ebd70-d210-4a04-b267-5660117db5d3" />
+<img width="2860" height="1551" alt="Screenshot 2026-03-21 133105" src="https://github.com/user-attachments/assets/9adfc39f-d1ef-495f-a779-4fa62a5a9014" />
+<img width="2842" height="1537" alt="Screenshot 2026-03-21 133049" src="https://github.com/user-attachments/assets/5aa6742e-5d8c-4780-ba3b-217b1a9b9938" />
+<img width="2879" height="1406" alt="Screenshot 2026-03-21 131616" src="https://github.com/user-attachments/assets/6f759066-7fb6-4976-be1b-e08131e8f614" />
+<img width="2696" height="361" alt="Screenshot 2026-03-21 105658" src="https://github.com/user-attachments/assets/dbce2fb7-0e8a-49fe-bad9-d37b08e902d1" />
+<img width="2878" height="1537" alt="Screenshot 2026-03-21 125427" src="https://github.com/user-attachments/assets/a0478acb-c7a7-4dcc-ac21-eeefac99d693" />
+<img width="2878" height="1529" alt="Screenshot 2026-03-21 114011" src="https://github.com/user-attachments/assets/301bb31f-ecf9-4b1c-95dd-26f3db54012b" />
+<img width="2879" height="1714" alt="Screenshot 2026-03-21 102400" src="https://github.com/user-attachments/assets/039d16f0-57c7-4177-b00f-635b83263d98" />
+<img width="2876" height="1550" alt="Screenshot 2026-03-21 012213" src="https://github.com/user-attachments/assets/40e6af0a-b4d4-46cf-b4d8-41e6c8d78de3" />
+<img width="2879" height="1641" alt="Screenshot 2026-03-21 005305" src="https://github.com/user-attachments/assets/1ba1088a-8ab6-4214-be3e-424dc45e9e97" />
+
+
+
 ## Table of Contents
 - [Application Code](#application-code)
 - [Jenkins Pipeline Code](#jenkins-pipeline-code)
